@@ -49,11 +49,11 @@ A simple and responsive **QR Code Generator** built using **HTML**, **CSS**, and
 
 ## 📂 Project Structure
 QRcodeGenerator/
-├── index.html
-├── style.css
-├── script.js
-├── me.png
-└── README.md
+- ├── index.html
+- ├── style.css
+- ├── script.js
+- ├── me.png
+- └── README.md
 
 ### 🙋‍♂️ Author
 **Nitesh Kumar**  
