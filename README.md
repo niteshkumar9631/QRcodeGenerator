@@ -6,7 +6,7 @@ A simple and responsive **QR Code Generator** built using **HTML**, **CSS**, and
 
 ## 🌐 Live Demo
   
-- [Live Demo](https://niteshkumar9631.github.io/QRcodeGenerator/)
+- [Live Demo](https://q-rcode-generator-gamma.vercel.app/)
 
 <br>
 
